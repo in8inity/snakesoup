@@ -1,0 +1,1 @@
+SnakeSoup is a python based recipe application that was written for the soul purpose of learning Python. You can consider this a proof of concept and application.
